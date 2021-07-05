@@ -9,7 +9,7 @@ without Account
 
 - ls
 
-- package install req.txt
+- package install requirements.txt
 
 
 - python paste_manager.py
